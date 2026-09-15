@@ -1,4 +1,4 @@
-package com.dhirajmerit.sewasetu_api;
+package com.dhirajmerit.sewasetuapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

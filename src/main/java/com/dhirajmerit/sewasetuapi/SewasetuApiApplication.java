@@ -1,4 +1,4 @@
-package com.dhirajmerit.sewasetu_api;
+package com.dhirajmerit.sewasetuapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
